@@ -3,10 +3,15 @@
 ### 🤖 Artificial Intelligence Student | Future AI Engineer | Tech Enthusiast  
 
 🎓 Artificial Intelligence Student  
-📱 Currently building full stack mobile apps 
+📱 Currently building mobile apps  
 🤖 Interested in AI solutions  
 💡 Passionate about creating practical apps that solve real problems  
 🚀 Always learning new technologies
+
+
+#### 📫 Connect With Me
+Email: affafnadeem00@gmail.com
+
 
 
 ## 🌐 Socials:
