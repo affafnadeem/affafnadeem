@@ -10,7 +10,7 @@
 
 
 #### 📫 Connect With Me
-Email: affafnadeem00@gmail.com
+Email: ai.by.affaf@gmail.com
 
 
 
